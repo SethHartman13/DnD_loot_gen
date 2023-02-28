@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'DnD_loot_gen.wsgi.application'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
 
-# In use when needing to introspecting the existing database
+# In use when needing to introspect the existing database
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -98,11 +98,6 @@ DATABASES = {
 #         'HOST':'localhost',
 #     }
 # }
-
-
-
-
-
 
 
 # Password validation
