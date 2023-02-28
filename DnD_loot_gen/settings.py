@@ -75,6 +75,8 @@ WSGI_APPLICATION = 'DnD_loot_gen.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
+
+# In use when needing to introspecting the existing database
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -85,6 +87,22 @@ DATABASES = {
         'PORT':'3306',
     }
 }
+
+# Run `py manage.py inspectdb > models.py`
+# Then comment out above code, and uncomment below
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'loot_table_db.sqlite3',
+#         'HOST':'localhost',
+#     }
+# }
+
+
+
+
+
 
 
 # Password validation
