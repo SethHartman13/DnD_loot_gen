@@ -33,8 +33,28 @@ INSERT INTO magic_item (magic_item_name, magic_item_type, magic_item_url, source
     ("Armor of Gleaming, Scale Mail", "Armor", "https://www.dndbeyond.com/magic-items/36571-armor-of-gleaming", NULL),
     ("Armor of Gleaming, Spiked Armor", "Armor", "https://www.dndbeyond.com/magic-items/36571-armor-of-gleaming", NULL),
     ("Armor of Gleaming, Splint", "Armor", "https://www.dndbeyond.com/magic-items/36571-armor-of-gleaming", NULL),
-    ("Arrows, Walloping", "Weapon", "https://www.dndbeyond.com/magic-items/36839-walloping-ammunition", NULL ),
+    ("Arrows, Walloping", "Ammunition", "https://www.dndbeyond.com/magic-items/36839-walloping-ammunition", NULL ),
     ("Band of Loyalty", "Ring", "https://www.dndbeyond.com/magic-items/215546-band-of-loyalty", NULL),
-    ("Bead of Nourishment", "Wondrous Item", "https://www.dndbeyond.com/magic-items/27022-bead-of-nourishment", NULL)
+    ("Bead of Nourishment", "Wondrous Item", "https://www.dndbeyond.com/magic-items/27022-bead-of-nourishment", NULL),
+    ("Bead of Refreshment", "Wondrous Item", "https://www.dndbeyond.com/magic-items/27023-bead-of-refreshment", NULL),
+    ("Blowgun Needles, Walloping", "Ammunition", "https://www.dndbeyond.com/magic-items/36839-walloping-ammunition", NULL ),
+    ("Boots of False Tracks", "Wondrous Item", "https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks", NULL),
+    ("Bottle of Boundless Coffee", "Wondrous Item", "https://www.dndbeyond.com/magic-items/4239816-bottle-of-boundless-coffee", NULL),
+    ("Breathing Bubble", "Wondrous Item", "https://www.dndbeyond.com/magic-items/1434259-breathing-bubble", NULL)
+    ("Candle of the Deep", "Wondrous Item", "https://www.dndbeyond.com/magic-items/27026-candle-of-the-deep", NULL),
+    ("Cartographer's Map Case", "Wondrous Item", "https://www.dndbeyond.com/magic-items/702253-cartographers-map-case", NULL),
+    ("Cast-off Armor, Breastplate", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Chain Mail", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Chain Shirt", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Half Plate", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Hide", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Leather", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Padded", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Plate", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Ring Mail", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Scale Mail", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Spiked Armor", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Splint", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL),
+    ("Cast-off Armor, Studded Leather", "Armor", "https://www.dndbeyond.com/magic-items/36589-cast-off-armor", NULL);
 
     
