@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'loot_gen_table'
+    'loot_gen_table.apps.LootGenTableConfig'
 ]
 
 MIDDLEWARE = [
